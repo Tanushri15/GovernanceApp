@@ -1,0 +1,22 @@
+{
+  "tanushri vishwakarma|polestar": {
+    "name": "Tanushri Vishwakarma",
+    "email": "tanushri.vishwakarma@polestaranalytics.com",
+    "company": "Polestar",
+    "password_hash": "5c45b89a16393a2ad44dbfa049bbf4e13bee0a023d59689f31c1ea2ff03e8975",
+    "created_at": "2026-05-08T06:38:08.311088",
+    "last_login": "2026-05-08T07:35:59.037599",
+    "answers": {
+      "Cloud Security": {
+        "responses": {
+          "26": "Yes",
+          "27": "Yes",
+          "28": "Yes",
+          "29": "No",
+          "30": "Yes"
+        },
+        "saved_at": "2026-05-08T07:06:44.779524"
+      }
+    }
+  }
+}
