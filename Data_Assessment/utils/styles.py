@@ -255,7 +255,7 @@ def inject_global_styles():
 
     /* ── Auth Page ── */
     .az-auth-shell {
-        min-height: 100vh;
+        min-height: 10vh;
         background: linear-gradient(135deg, #0078d4 0%, #005a9e 50%, #003966 100%);
         display: flex;
         align-items: center;
