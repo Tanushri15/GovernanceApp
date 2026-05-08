@@ -117,7 +117,7 @@ def inject_global_styles():
     /* ── Page Content Wrapper ── */
     .az-page {
         padding: 24px 32px;
-        min-height: calc(100vh - 48px);
+        min-height: calc(10vh - 48px);
     }
 
     /* ── Breadcrumb ── */
