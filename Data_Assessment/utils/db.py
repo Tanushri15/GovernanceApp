@@ -122,4 +122,4 @@ def _sample_questions() -> pd.DataFrame:
         (29, "Cloud Security", "Is infrastructure-as-code (IaC) scanned for misconfigurations?"),
         (30, "Cloud Security", "Are cloud workloads protected by endpoint detection and response (EDR)?"),
     ]
-    return pd.DataFrame(data, columns=["QuestionID", "Domain", "QuestionText"])
+    return pd.DataFrame(data, columns=["QuestionID", "domain", "QuestionText"])
